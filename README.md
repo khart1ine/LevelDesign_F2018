@@ -12,3 +12,12 @@ of the kingdom.
 The one key thing to note about the level is that most high jumps are
 based on double jumping. The timing for this is to double tap the
 jump button for the immediate initial boost of vertical speed.
+
+# Assignment 7:
+
+## Introduction to Level Design
+
+Submission by: Kevin Hartline
+
+To add to the ninja sneaking into enemy territory theme, and the fact that I have more
+lighting now, I decided to change the time of day to night.
